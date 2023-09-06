@@ -1,9 +1,12 @@
 .NavContainer {
     width: 575px;
-    height: 10px;
+    height: 15px;
     display: flex;
     justify-content: space-between;
 
+    position: absolute;
+    top: 90%;
+    left: 150px;
 }
 
 .NavContainer button {
