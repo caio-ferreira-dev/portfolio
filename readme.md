@@ -1,1 +1,3 @@
-Este repositório abriga meu portfólio Full-Stack JavaScript, exemplificando a integração eficiente de back-ends com NestJS e front-ends com Next.js. Comprometido com soluções altamente escaláveis e de alto desempenho. Explore aqui um conjunto de aplicações web sofisticadas, demonstrando minha paixão pela inovação e excelência técnica. Junte-se a mim nesta jornada de desenvolvimento e descubra como posso elevar seus projetos.
+Este repositório abriga o código do meu portfólio Full-Stack JavaScript, apresentando meu perfil e aplicações que buscam a integração eficiente de back-ends com NestJS e front-ends com Next.js, comprometido com soluções altamente escaláveis e de alto desempenho. Explore aqui um conjunto de aplicações web sofisticadas, demonstrando minha paixão pela inovação e excelência técnica. 
+
+Junte-se a mim nesta jornada de desenvolvimento e descubra como posso elevar seus projetos.

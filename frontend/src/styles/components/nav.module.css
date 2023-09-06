@@ -1,0 +1,14 @@
+.NavContainer {
+    width: 575px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.NavContainer button {
+    width: 75px;
+    height: 15px;
+    border: none;
+    border-radius: 20px;
+}
