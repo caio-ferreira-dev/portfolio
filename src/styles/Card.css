@@ -1,0 +1,37 @@
+.cardContainer {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cardDuration {
+    display: block;
+    min-width: fit-content;
+    color: #5e6d84;
+}
+
+.cardPosition {
+    color: #dce4ee;
+}
+
+.tagList {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tag {
+    font-size: 16px;
+    text-align: center;
+    color: #0BEFFF;
+    background-color: rgba(11, 239, 255, 0.075);
+    border-radius: 16px;
+    padding: 4px 12px;
+}
