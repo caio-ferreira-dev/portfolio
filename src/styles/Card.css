@@ -47,3 +47,17 @@
   background-color: rgba(116, 116, 116, 0.075);
   transition: 0.5s;
 }
+
+.externalIcon {
+  max-width: 16px;
+  max-height: 16px;
+}
+
+@media only screen and (max-width: 767px) {
+  .cardContainer {
+    gap: 10px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px;
+  }
+}

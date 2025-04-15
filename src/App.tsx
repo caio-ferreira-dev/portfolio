@@ -49,14 +49,12 @@ function App() {
         <main>
           <section id="about-me">
             <p>
-              Transformo ideias em realidade, utilizando ferramentas modernas e
-              robustas. Como desenvolvedor de software, meu foco está no
+              Como desenvolvedor de software, meu foco está no
               ecossistema JavaScript, trabalhando com tecnologias como{" "}
               <span className="highlight">TypeScript, NestJS e React</span>,
               além de ter experiência com Express, Next.js e React Native.
               Embora meu foco principal seja o desenvolvimento em JavaScript,
-              também possuo conhecimento em PHP e estou expandindo minhas
-              habilidades no Laravel.
+              também possuo conhecimento em outras linguagens como Python, Java e PHP.
               <br></br>
               <br></br>
               Ao longo da minha trajetória profissional, trabalhei na{" "}
