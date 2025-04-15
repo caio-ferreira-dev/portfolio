@@ -1,7 +1,7 @@
 export default interface CardProps {
-    duration: string;
-    position: string;
-    description: string;
-    tagList: string[];
+  duration: string;
+  position: string;
+  description: string;
+  tagList: string[];
+  companySite: string;
 }
-

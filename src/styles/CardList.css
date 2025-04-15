@@ -1,6 +1,6 @@
 ol {
-    list-style-type: none;
-    display: flex;
-    flex-direction: column;
-    gap: 60px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
 }

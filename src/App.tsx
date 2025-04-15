@@ -1,8 +1,9 @@
 import CardList from "./components/CardList";
 import Header from "./components/Header";
 import "./styles/App.css";
+import CardProps from "./types/CardProps";
 
-const experiences = [
+const experiences: CardProps[] = [
   {
     duration: "2022 — 2023",
     position: "Desenvolvedor Backend - Anjun Express",
@@ -18,6 +19,7 @@ const experiences = [
       "Linux",
       "Docker",
     ],
+    companySite: "https://anjunexpress.com.br",
   },
   {
     duration: "2024 — 2025",
@@ -35,6 +37,7 @@ const experiences = [
       "Docker",
       "AWS EC2",
     ],
+    companySite: "https://hcxtech.com.br",
   },
 ];
 
@@ -63,18 +66,18 @@ function App() {
               utilizando TypeScript e NestJS. Também atuei como{" "}
               <span className="highlight">freelancer</span>, desenvolvendo
               landing pages e sistemas de estoque/controle financeiro para
-              empresas, combinando Next.js e NestJS. Além disso, em meu último
-              emprego, trabalhei na <span className="highlight">HCX Tech</span>,
-              uma empresa de consulta financeira, onde utilizei PHP para criar
-              novas funcionalidades, integrando o sistema legado a soluções do
+              empresas menores, combinando Next.js e NestJS. Além disso, em meu
+              último emprego, trabalhei na{" "}
+              <span className="highlight">HCX Tech</span>, uma empresa de
+              consulta financeira, onde utilizei PHP para criar novas
+              funcionalidades, integrando o sistema legado a soluções do
               ecossistema JavaScript, além de atualizar páginas, componentes e
               integrações com APIs externas.
               <br></br>
               <br></br>
               Fora do código, gosto de passar um tempo com{" "}
               <span className="highlight">amigos e família</span>, e também
-              jogar games como League of Legends, Zelda, Pokémon e diversos
-              party games.
+              jogar games como Undertale, Zelda, Pokémon e alguns party games.
             </p>
           </section>
           <section id="experience">

@@ -1,19 +1,46 @@
 .pageHeader {
-    position: fixed;
-    display: flex;
-    width: 20%;
-    height: calc(100% - 160px);
-    flex-direction: column;
-    justify-content: space-between;
+  position: fixed;
+  display: flex;
+  width: 20%;
+  height: calc(100% - 160px);
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .titleSection {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
-.socialSection{
-    display: flex;
-    gap: 10px
+.socialSection {
+  display: flex;
+  gap: 10px;
+}
+
+nav {
+  margin-top: 50px;
+}
+
+.pagesSections {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.highlightedSection {
+  color: #e2e8f0;
+}
+
+.defaultItem {
+  color: #8699ba;
+  transition: color 0.7s ease;
+}
+
+.hoverIcon {
+  transition: filter 0.7s ease;
+}
+
+.hoverIcon:hover {
+  filter: brightness(1.5);
 }
